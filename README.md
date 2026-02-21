@@ -2,7 +2,7 @@
 
 # Hallo, ich bin Hayal 👋
 
-**Leiter Marketing & Kommunikation | Schulamt der Stadt Zürich**  
+**Leiter Kommunikation | Schulamt der Stadt Zürich**  
 **Mitglied der Geschäftsleitung | KI-Fachgruppe der Stadtverwaltung Zürich**
 
 Ich baue Open-Source-Werkzeuge für eine KI, die dem öffentlichen Interesse dient — nicht umgekehrt. Meine Arbeit verbindet kritische Theorie, Edge AI und pragmatische Prozessoptimierung, um Verwaltung und Bildung souverän zu digitalisieren.
