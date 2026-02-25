@@ -49,6 +49,16 @@ Local AI processing on Raspberry Pi — because sovereign institutions don't sen
 
 My focus: **AI that runs on a $100 device in a classroom or office** — no cloud dependency, no data leakage, no vendor lock-in.
 
+### 🔌 MCP Servers — Connecting AI to Data
+
+The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is the open standard that securely connects AI models to data sources and tools — like a universal adapter for the AI world. I build MCP servers that make public data accessible to AI agents without sacrificing data sovereignty.
+
+| Project | What it does |
+|---------|-------------|
+| [Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp) | MCP server for [City of Zurich Open Data](https://data.stadt-zuerich.ch/) — 900+ datasets via CKAN, geodata (school facilities, districts), parliamentary information, tourism data, SPARQL linked data, and real-time parking data across 6 APIs. 20 tools, CC0-licensed. |
+
+My focus: Public data deserves public interfaces. Every MCP server I build follows the principle of "privacy by architecture" — open data openly accessible, sensitive data locally protected.
+
 ### 🔧 Personal Workflows
 
 Tools I use daily and share as open source.
