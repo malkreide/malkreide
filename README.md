@@ -55,7 +55,7 @@ Das [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) ist der off
 
 | Projekt | Was es tut |
 |---------|-----------|
-| [Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp) | MCP-Server für [Open Data der Stadt Zürich](https://data.stadt-zuerich.ch/) — 900+ Datensätze via CKAN, Geodaten (Schulanlagen, Quartiere), Parlamentsinformationen, Tourismusdaten, SPARQL Linked Data und Echtzeit-Parkplatzdaten über 6 APIs. 20 Tools, CC0-lizenziert. |
+| **[Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp)** | MCP-Server für [Open Data der Stadt Zürich](https://data.stadt-zuerich.ch/) — 900+ Datensätze via CKAN, Geodaten (Schulanlagen, Quartiere), Parlamentsinformationen, Tourismusdaten, SPARQL Linked Data und Echtzeit-Parkplatzdaten über 6 APIs. 20 Tools, CC0-lizenziert. |
 
 Mein Fokus: Öffentliche Daten verdienen öffentliche Schnittstellen. Jeder MCP-Server, den ich baue, folgt dem Prinzip «Privacy by Architecture» — Open Data offen zugänglich, sensible Daten lokal geschützt.
 
