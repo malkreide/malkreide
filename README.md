@@ -49,6 +49,16 @@ Lokale KI-Verarbeitung auf Raspberry Pi — weil souveräne Institutionen ihre D
 
 Mein Fokus: **KI, die auf einem 100-Franken-Gerät im Schulzimmer oder Büro läuft** — ohne Cloud-Abhängigkeit, ohne Datenabfluss, ohne Vendor Lock-in.
 
+### 🔌 MCP Server — KI mit Daten verbinden
+
+Das [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) ist der offene Standard, der KI-Modelle sicher mit Datenquellen und Werkzeugen verbindet — wie ein genormter Stecker für die KI-Welt. Ich entwickle MCP-Server, die öffentliche Daten für KI-Agenten zugänglich machen, ohne Datensouveränität zu opfern.
+
+| Projekt | Was es tut |
+|---------|-----------|
+| [Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp) | MCP-Server für [Open Data der Stadt Zürich](https://data.stadt-zuerich.ch/) — 900+ Datensätze via CKAN, Geodaten (Schulanlagen, Quartiere), Parlamentsinformationen, Tourismusdaten, SPARQL Linked Data und Echtzeit-Parkplatzdaten über 6 APIs. 20 Tools, CC0-lizenziert. |
+
+Mein Fokus: Öffentliche Daten verdienen öffentliche Schnittstellen. Jeder MCP-Server, den ich baue, folgt dem Prinzip «Privacy by Architecture» — Open Data offen zugänglich, sensible Daten lokal geschützt.
+
 ### 🔧 Persönliche Workflows
 
 Werkzeuge, die ich selbst täglich nutze und als Open Source teile.
