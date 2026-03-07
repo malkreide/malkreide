@@ -56,6 +56,12 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is the open
 | Project | What it does |
 |---------|-------------|
 | **[Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp)** | MCP server for [City of Zurich Open Data](https://data.stadt-zuerich.ch/) — 900+ datasets via CKAN, geodata (school facilities, districts), parliamentary information, tourism data, SPARQL linked data, and real-time parking data across 6 APIs. 20 tools, CC0-licensed. |
+| **[Swiss Transport MCP](https://github.com/malkreide/swiss-transport-mcp)** | MCP server for Swiss public transport — OJP journey planner, real-time departures, disruptions, occupancy, ticket prices, train formations, and open data from opentransportdata.swiss |
+| **[Swiss Road Mobility MCP](https://github.com/malkreide/swiss-road-mobility-mcp)** | MCP server for Swiss road mobility: shared vehicles, EV charging, DATEX II traffic & road counters, Park & Rail, and multimodal trip planning (car → train → destination). 12 tools, open data first. |
+| **[Fedlex MCP](https://github.com/malkreide/fedlex-mcp)** | MCP server for Swiss federal law (Fedlex) — search the SR, monitor legal changes, and query BBl/treaties via SPARQL |
+| **[Global Education MCP](https://github.com/malkreide/global-education-mcp)** | MCP server for international education data — UNESCO UIS (4,000+ indicators) and OECD Education at a Glance via SDMX. No API keys required. |
+| **[ETH Library MCP](https://github.com/malkreide/eth-library-mcp)** | MCP server for ETH Library Zurich — access 30M+ resources (books, maps, images, archives) via Discovery & Persons API |
+| **[MCP Server for Patent Research](https://github.com/malkreide/MCP-Server-for-patent-research-)** | MCP server for patent research — EPO OPS, Espacenet & IGE/Swissreg for European and Swiss intellectual property |
 
 My focus: Public data deserves public interfaces. Every MCP server I build follows the principle of "privacy by architecture" — open data openly accessible, sensitive data locally protected.
 
