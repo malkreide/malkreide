@@ -56,6 +56,12 @@ Das [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) ist der off
 | Projekt | Was es tut |
 |---------|-----------|
 | **[Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp)** | MCP-Server für [Open Data der Stadt Zürich](https://data.stadt-zuerich.ch/) — 900+ Datensätze via CKAN, Geodaten (Schulanlagen, Quartiere), Parlamentsinformationen, Tourismusdaten, SPARQL Linked Data und Echtzeit-Parkplatzdaten über 6 APIs. 20 Tools, CC0-lizenziert. |
+| **[Swiss Transport MCP](https://github.com/malkreide/swiss-transport-mcp)** | MCP-Server für den Schweizer öffentlichen Verkehr — OJP-Reiseplaner, Echtzeit-Abfahrten, Störungen, Auslastung, Ticketpreise, Zugkompositionen und Open Data von opentransportdata.swiss |
+| **[Swiss Road Mobility MCP](https://github.com/malkreide/swiss-road-mobility-mcp)** | MCP-Server für Schweizer Strassenmobilität: Shared Vehicles, E-Ladestationen, DATEX-II-Verkehrsdaten, Strassenzähler, Park & Rail und multimodale Reiseplanung (Auto → Zug → Ziel). 12 Tools, Open Data first. |
+| **[Fedlex MCP](https://github.com/malkreide/fedlex-mcp)** | MCP-Server für das Schweizer Bundesrecht (Fedlex) — systematische Rechtssammlung (SR) durchsuchen, Gesetzesänderungen verfolgen und BBl/Staatsverträge via SPARQL abfragen |
+| **[Global Education MCP](https://github.com/malkreide/global-education-mcp)** | MCP-Server für internationale Bildungsdaten — UNESCO UIS (4'000+ Indikatoren) und OECD Education at a Glance via SDMX. Kein API-Schlüssel erforderlich. |
+| **[ETH Library MCP](https://github.com/malkreide/eth-library-mcp)** | MCP-Server für die ETH-Bibliothek Zürich — Zugriff auf 30 Mio.+ Ressourcen (Bücher, Karten, Bilder, Archive) via Discovery & Persons API |
+| **[MCP Server für Patentrecherche](https://github.com/malkreide/MCP-Server-for-patent-research-)** | MCP-Server für Patentrecherche — EPO OPS, Espacenet & IGE/Swissreg für europäische und schweizerische Schutzrechte |
 
 Mein Fokus: Öffentliche Daten verdienen öffentliche Schnittstellen. Jeder MCP-Server, den ich baue, folgt dem Prinzip «Privacy by Architecture» — Open Data offen zugänglich, sensible Daten lokal geschützt.
 
