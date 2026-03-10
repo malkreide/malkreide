@@ -1,78 +1,111 @@
-# Hayal Oezkan · malkreide
+🇩🇪 [Deutsch](README.md) | 🇬🇧 English
 
-[🇩🇪 Deutsche Version](README.md)
+# Hi, I'm Hayal 👋
 
-**Head of Communications | Schulamt Stadt Zürich (City School Authority)**  
-Member of Executive Board | AI Working Group, City of Zurich Administration
+**Head of Marketing & Communications | Zurich City School Department**  
+**Member of Executive Management | AI Task Force, City of Zurich Administration**
 
-> I build open-source tools for AI that serves the public interest — not the other way around.
+I build open-source tools for AI that serves the public interest — not the other way around. My work connects critical theory, edge AI, and pragmatic process optimization to help public administration and education digitalize on their own terms.
 
-My work connects critical theory, edge AI, and pragmatic process optimisation to sovereignly digitise public administration and education.
-
-> «No algorithmic system is neutral. No administrative process is without alternatives. And no data sovereignty emerges by itself.»
-
-AI in public administration doesn't fail because of the technology — it fails from a lack of reflection, blind processes, and the illusion that cloud dependency is inevitable.
-
-**Reflect critically before implementing.**
+> *"No algorithmic system is neutral. No bureaucratic process is without alternatives. And no data sovereignty happens by itself."*
 
 ---
 
-## 🔌 MCP Servers for Swiss & International Open Data
+## What I believe
 
-### 🏙️ [zurich-opendata-mcp](https://github.com/malkreide/zurich-opendata-mcp)
-MCP server for open data from the City of Zurich — 20 tools for CKAN, geodata, city council, tourism, SPARQL and real-time data (weather, air quality, lake, parking, public transport). 6 APIs, 6 Resources.
+AI in public administration doesn't fail because of technology — it fails because of missing reflection, blind processes, and the illusion that cloud dependency is inevitable.
 
-### 🚆 [swiss-transport-mcp](https://github.com/malkreide/swiss-transport-mcp)
-MCP server for Swiss public transport — OJP journey planner, real-time departures, disruptions, occupancy, ticket prices, train formations and open data from opentransportdata.swiss.
+Three principles guide my work:
 
-### 🚗 [swiss-road-mobility-mcp](https://github.com/malkreide/swiss-road-mobility-mcp)
-MCP server for Swiss road mobility: shared vehicles, EV charging stations, DATEX-II traffic data, road counters, Park & Rail and multimodal journey planning (car → train → destination). 12 tools, open data first.
+**Think critically before you implement.** If you don't understand the bias and power structures embedded in AI systems, you're automating inequality. Critical theory isn't academic luxury — it's a prerequisite for responsible technology decisions.
 
-### ⚖️ [fedlex-mcp](https://github.com/malkreide/fedlex-mcp)
-MCP server for Swiss federal law (Fedlex) — search the systematic compilation (SR), track legislative changes and query the Federal Gazette/treaties via SPARQL.
+**Fix the process first, then add technology.** The biggest risk is putting new software on a broken process. Question first, eliminate second, digitalize — maybe — third.
 
-### 🎓 [global-education-mcp](https://github.com/malkreide/global-education-mcp)
-MCP server for international education data — UNESCO UIS (4,000+ indicators) and OECD Education at a Glance via SDMX. No API key required.
-
-### 📚 [eth-library-mcp](https://github.com/malkreide/eth-library-mcp)
-MCP server for the ETH Zurich Library — access to 30M+ resources (books, maps, images, archives) via Discovery & Persons API.
-
-### 🔬 [patent-mcp](https://github.com/malkreide/patent-mcp)
-MCP server for patent research — EPO OPS, Espacenet & IGE/Swissreg for European and Swiss intellectual property rights.
+**Data sovereignty is non-negotiable.** Public institutions that hand their data to proprietary platforms hand over agency. Edge AI, local processing, and open source aren't technical preferences — they're democratic necessities.
 
 ---
 
-## 🛠️ Claude AI Skills
+## What I build
 
-Reusable skill files (`SKILL.md`) for Claude Code and Claude.ai — directly integrable as context-specific instructions.
+### 🔍 Claude AI Skills
 
-### ⚙️ [musk-algorithm-skill](https://github.com/malkreide/musk-algorithm-skill)
-Systematic process and requirements analysis based on the 5-step algorithm (Musk), adapted for public administration.
+Specialized instruction sets that turn Claude into a domain expert for specific tasks — calibrated for Swiss public administration and education.
 
-### 🍓 [raspberry-pi-ai-skill](https://github.com/malkreide/raspberry-pi-ai-skill)
-Claude AI skill for Raspberry Pi development with edge AI integration — GPIO, Hailo, sensors, systemd and debugging.
+| Skill | What it does |
+|:------|:-------------|
+| **[Critical AI Literacy](https://github.com/malkreide/critical-ai-literacy-skill)** | Analyze AI systems for bias, power structures, and societal impact — Frankfurt School meets technology critique |
+| **[Critical Pedagogy](https://github.com/malkreide/critical-pedagogy-skill)** | Examine curricula, school communications, and educational texts for hidden power dynamics and exclusion mechanisms |
+| **[Musk Algorithm](https://github.com/malkreide/musk-algorithm-skill)** | 5-step process analysis (Question → Delete → Simplify → Accelerate → Automate), adapted for public administration |
+| **[Socratic Method](https://github.com/malkreide/socratic-method-skill)** | Claude as a Socratic tutor — guided knowledge discovery through systematic questioning instead of direct instruction |
 
-### 🏛️ [socratic-method-skill](https://github.com/malkreide/socratic-method-skill)
-The Socratic method as a Claude skill — for critical thinking, learning through questions and reflective problem-solving.
+### 🤖 Edge AI & Raspberry Pi
 
-### 📄 [notion-ai-papers](https://github.com/malkreide/notion-ai-papers) *(Archived)*
-> ⚠️ **This repository is archived and no longer actively maintained.**  
-> The functionality is now available directly via the [Notion MCP Server](https://mcp.notion.com).
+Local AI processing on Raspberry Pi — because sovereign institutions don't send their data to someone else's cloud.
 
-Claude skill for systematic analysis of AI research papers and integration into Notion databases. Developed for the Schulamt der Stadt Zürich.
+| Project | What it does |
+|:--------|:-------------|
+| **[Raspberry Pi AI Skill](https://github.com/malkreide/raspberry-pi-ai-skill)** | Claude skill for Raspberry Pi development with edge AI (Hailo-8L NPU), hardware integration, and systematic debugging |
+| *More projects in development* | Edge AI prototypes for education and public administration — speech processing, image recognition, and sensor data, all processed locally |
+
+My focus: **AI that runs on a $100 device in a classroom or office** — no cloud dependency, no data leakage, no vendor lock-in.
+
+### 🔌 MCP Servers — Connecting AI to Data
+
+The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is the open standard that securely connects AI models to data sources and tools — like a universal adapter for the AI world. I build MCP servers that make public data accessible to AI agents without sacrificing data sovereignty.
+
+| Project | What it does |
+|---------|-------------|
+| **[Zurich Open Data MCP](https://github.com/malkreide/zurich-opendata-mcp)** | MCP server for [City of Zurich Open Data](https://data.stadt-zuerich.ch/) — 900+ datasets via CKAN, geodata (school facilities, districts), parliamentary information, tourism data, SPARQL linked data, and real-time parking data across 6 APIs. 20 tools, CC0-licensed. |
+| **[Swiss Transport MCP](https://github.com/malkreide/swiss-transport-mcp)** | MCP server for Swiss public transport — OJP journey planner, real-time departures, disruptions, occupancy, ticket prices, train formations, and open data from opentransportdata.swiss |
+| **[Swiss Road Mobility MCP](https://github.com/malkreide/swiss-road-mobility-mcp)** | MCP server for Swiss road mobility: shared vehicles, EV charging, DATEX II traffic & road counters, Park & Rail, and multimodal trip planning (car → train → destination). 12 tools, open data first. |
+| **[Fedlex MCP](https://github.com/malkreide/fedlex-mcp)** | MCP server for Swiss federal law (Fedlex) — search the SR, monitor legal changes, and query BBl/treaties via SPARQL |
+| **[Global Education MCP](https://github.com/malkreide/global-education-mcp)** | MCP server for international education data — UNESCO UIS (4,000+ indicators) and OECD Education at a Glance via SDMX. No API keys required. |
+| **[ETH Library MCP](https://github.com/malkreide/eth-library-mcp)** | MCP server for ETH Library Zurich — access 30M+ resources (books, maps, images, archives) via Discovery & Persons API |
+| **[MCP Server for Patent Research](https://github.com/malkreide/MCP-Server-for-patent-research-)** | MCP server for patent research — EPO OPS, Espacenet & IGE/Swissreg for European and Swiss intellectual property |
+
+My focus: Public data deserves public interfaces. Every MCP server I build follows the principle of "privacy by architecture" — open data openly accessible, sensitive data locally protected.
+
+### 🔧 Personal Workflows
+
+Tools I use daily and share as open source.
+
+| Project | What it does |
+|:--------|:-------------|
+| **[Notion AI Papers](https://github.com/malkreide/notion-ai-papers)** | Systematic analysis of AI research papers with automated Notion integration — my personal knowledge management system for strategic decision-making |
 
 ---
 
-## 📍 Focus
+## Why open source?
 
-**Public data deserves public interfaces.**
+Public administration funded by public money should produce public tools. Every skill and project here is MIT-licensed — free to use, free to adapt.
 
-All projects follow the principle: Open Data → Open Interfaces → Sovereign Decisions. No vendor lock-ins, no black boxes — public administration and education need transparent, controllable AI tools.
+If a city administration in Berlin, Vienna, or Amsterdam faces the same challenges we face in Zurich, they shouldn't have to start from scratch.
 
 ---
 
-## 🔗 Links
+## Theoretical foundations
 
-- 🏢 [Schulamt der Stadt Zürich](https://www.stadt-zuerich.ch/schulamt)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hayaloezkan/)
-- 📍 Zurich, Switzerland
+My work rests on four pillars:
+
+- **Critical Theory** (Horkheimer, Adorno, Habermas, Honneth) — Ideology critique and power analysis as the basis for technology decisions
+- **Critical Pedagogy** (Freire, Giroux) — Education as liberation practice, not an optimization problem
+- **Critical Data Studies** (Buolamwini, Noble, Couldry) — Algorithmic justice and the political economy of data
+- **Lean / First Principles** (Musk, Goldratt, Toyota) — Radically pragmatic process optimization that starts with questioning
+
+---
+
+## Context
+
+The [Zurich City School Department](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulamt.html) supports schools and district school boards in managing and developing Zurich's public school system — approximately 32,000 students, 4,500 teachers, 125 schools.
+
+As a member of the **AI Task Force of the City of Zurich Administration**, I work on strategic AI implementation across the entire city government.
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hayaloezkan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hayaloezkan/)
+
+---
+
+<sub>All projects are MIT-licensed. Calibrated for Switzerland, adaptable to other contexts.</sub>
