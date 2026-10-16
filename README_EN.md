@@ -120,8 +120,7 @@ My work rests on four pillars:
 
 ## Context
 
-<!-- Verify figures before publishing: previous profile stated 32,000 students, 4,500 teachers, 125 schools. -->
-The [Zurich City School Department](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulamt.html) supports schools and the seven district school boards in managing and developing Zurich's public school system — approximately 32,000 students, 4,500 teachers, 125 schools.
+The [Zurich City School Department](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulamt.html) supports schools and the seven district school boards in managing and developing Zurich's public school system — around 36,750 students in the 2026/27 school year ([press release, German](https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/08/neues-schuljahr-2026-27.html)).
 
 As a member of the **AI Task Force of the City of Zurich Administration**, I work on knowledge exchange, standards, and the assessment of AI initiatives across the entire city government.
 

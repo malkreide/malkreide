@@ -120,8 +120,7 @@ Meine Arbeit steht auf vier Pfeilern:
 
 ## Kontext
 
-<!-- Zahlen vor Veröffentlichung prüfen: bisheriges Profil nannte 32'000 SuS, 4'500 Lehrpersonen, 125 Schulen. -->
-Das [Schulamt der Stadt Zürich](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulamt.html) unterstützt die Schulen und die sieben Kreisschulbehörden bei der Steuerung und Entwicklung der städtischen Volksschule – rund 32'000 Schülerinnen und Schüler, 4'500 Lehrpersonen, 125 Schulen.
+Das [Schulamt der Stadt Zürich](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulamt.html) unterstützt die Schulen und die sieben Kreisschulbehörden bei der Steuerung und Entwicklung der städtischen Volksschule – mit rund 36'750 Schülerinnen und Schülern im Schuljahr 2026/27 ([Medienmitteilung](https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/08/neues-schuljahr-2026-27.html)).
 
 Als Mitglied der **KI-Fachgruppe der Stadtverwaltung Zürich** arbeite ich am Erfahrungsaustausch, an Standards und an der Einschätzung von KI-Vorhaben für die gesamte Stadtverwaltung.
 
